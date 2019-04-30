@@ -6,7 +6,9 @@ The program will receive an input array of five players and their cards/rankings
 
 ## Rankings
 Non-Rainbow 2| 3| 4| 5} 8} J~ You don't have at least one of each suit.
+
 1 pair J| J} 4} 8~ 7~ 5} You have two cards of the same rank.
+
 Rainbow 8| 4~ 6} Q K A| You have one of each suit.
 2 pair 8~ 8} A~ A| 3~ 7| You hold four cards that consist of only two ranks.
 Three of a kind 2~ 3~ 4| 4} 4| 9 You have three cards of the same rank.
